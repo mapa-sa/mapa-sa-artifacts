@@ -1,0 +1,113 @@
+[
+  {
+    "NOME_LEI": "Política Nacional de Meio Ambiente",
+    "LEI/DECRETO": "Lei nº 6.938",
+    "ANO": 1981,
+    "URL": "http://www.planalto.gov.br/Ccivil_03/Leis/L6938.htm",
+    "EMENTA": "DISPÕE SOBRE A POLÍTICA NACIONAL DO MEIO AMBIENTE, SEUS FINS E MECANISMOS DE FORMULAÇÃO E APLICAÇÃO, E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Constituição Federal",
+    "LEI/DECRETO": "Constituição Federal",
+    "ANO": 1988,
+    "URL": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "EMENTA": "NÓS, REPRESENTANTES DO POVO BRASILEIRO, REUNIDOS EM ASSEMBLÉIA NACIONAL CONSTITUINTE PARA INSTITUIR UM ESTADO DEMOCRÁTICO, DESTINADO A ASSEGURAR O EXERCÍCIO DOS DIREITOS SOCIAIS E INDIVIDUAIS, A LIBERDADE, A SEGURANÇA, O BEM-ESTAR, O DESENVOLVIMENTO, A IGUALDADE E A JUSTIÇA COMO VALORES SUPREMOS DE UMA SOCIEDADE FRATERNA, PLURALISTA E SEM PRECONCEITOS, FUNDADA NA HARMONIA SOCIAL E COMPROMETIDA, NA ORDEM INTERNA E INTERNACIONAL, COM A SOLUÇÃO PACÍFICA DAS CONTROVÉRSIAS, PROMULGAMOS, SOB A PROTEÇÃO DE DEUS, A SEGUINTE CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL."
+  },
+  {
+    "NOME_LEI": "Política Nacional de Educação Ambiental",
+    "LEI/DECRETO": "Lei nº 9.795",
+    "ANO": 1999,
+    "URL": "http://www.planalto.gov.br/ccivil_03/Leis/L9795.htm",
+    "EMENTA": "DISPÕE SOBRE A EDUCAÇÃO AMBIENTAL, INSTITUI A POLÍTICA NACIONAL DE EDUCAÇÃO AMBIENTAL E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Código de cores para os resíduos sólidos",
+    "LEI/DECRETO": "Resolução CONAMA nº 275",
+    "ANO": 2001,
+    "URL": "http://www2.mma.gov.br/port/conama/legiabre.cfm?codlegi=273",
+    "EMENTA": "ESTABELE O CÓDIGO DE CORES PARA OS DIFERENTES TIPOS DE RESÍDUOS, A SER ADOTADO NA IDENTIFI CAÇÃO DE COLETORES E TRANSPORTADORES, BEM COMO NAS CAMPANHAS INFORMATIVAS PARA A COLETA SELETIVA."
+  },
+  {
+    "NOME_LEI": "Lei dos Consórcios Públicos",
+    "LEI/DECRETO": "Lei nº 11.107",
+    "ANO": 2005,
+    "URL": "http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11107.htm",
+    "EMENTA": "DISPÕE SOBRE NORMAS GERAIS DE CONTRATAÇÃO DE CONSÓRCIOS PÚBLICOS E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Institui a separação dos resíduos recicláveis descartados pelos órgãos e entidades da administração pública federal direta e indireta",
+    "LEI/DECRETO": "Decreto nº 5.940",
+    "ANO": 2006,
+    "URL": "https://www.mma.gov.br/estruturas/a3p/_arquivos/36_09102008043217.pdf",
+    "EMENTA": "INSTITUI A SEPARAÇÃO DOS RESÍDUOS RECICLÁVEIS DESCARTADOS PELOS ÓRGÃOS E ENTIDADES DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA E INDIRETA, NA FONTE GERADORA, E A SUA DESTINAÇÃO ÀS ASSOCIAÇÕES E COOPERATIVAS DOS CATADORES DE MATERIAIS RECICLÁVEIS, E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Lei Federal de Saneamento Básico",
+    "LEI/DECRETO": "Lei nº 11.445",
+    "ANO": 2007,
+    "URL": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm",
+    "EMENTA": "ESTABELECE AS DIRETRIZES NACIONAIS PARA O SANEAMENTO BÁSICO; CRIA O COMITÊ INTERMINISTERIAL DE SANEAMENTO BÁSICO; ALTERA AS LEIS NOS 6.766, DE 19 DE DEZEMBRO DE 1979, 8.666, DE 21 DE JUNHO DE 1993, E 8.987, DE 13 DE FEVEREIRO DE 1995; E REVOGA A LEI Nº 6.528, DE 11 DE MAIO DE 1978."
+  },
+  {
+    "NOME_LEI": "Política Nacional de Resíduos Sólidos",
+    "LEI/DECRETO": "Lei nº 12.305",
+    "ANO": 2010,
+    "URL": "http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12305.htm",
+    "EMENTA": "INSTITUI A POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS; ALTERA A LEI NO 9.605, DE 12 DE FEVEREIRO DE 1998; E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Regulamenta a Política Nacional de Resíduos Sólidos",
+    "LEI/DECRETO": "Decreto nº 7.404",
+    "ANO": 2010,
+    "URL": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7404.htm",
+    "EMENTA": "REGULAMENTA A LEI NO 12.305, DE 2 DE AGOSTO DE 2010, QUE INSTITUI A POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS, CRIA O COMITÊ INTERMINISTERIAL DA POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS E O COMITÊ ORIENTADOR PARA A IMPLANTAÇÃO DOS SISTEMAS DE LOGÍSTICA REVERSA, E DÁ OUTRAS PROVIDÊNCIAS."
+  },
+  {
+    "NOME_LEI": "Acordo Setorial de Embalagens em Geral",
+    "LEI/DECRETO": "Acordo Setorial para implantação do Sistema de Logística Reversa de Embalagens em Geral.",
+    "ANO": 2015,
+    "URL": "https://sinir.gov.br/images/sinir/Embalagens%20em%20Geral/Acordo_embalagens.pdf"
+  },
+  {
+    "NOME_LEI": "Termo de Compromisso de Embalagens de Aço",
+    "LEI/DECRETO": "Termo de Compromisso de Embalagens de Aço",
+    "ANO": 2018,
+    "URL": "https://portal-api.sinir.gov.br/wp-content/uploads/2022/05/Termo_de_Compromisso.pdf",
+    "EMENTA": "TERMO DE COMPROMISSO PARA IMPLANTAÇÃO DE SISTEMA DE LOGÍSTICA REVERSA DE EMBALAGENS DE AÇO"
+  },
+  {
+    "NOME_LEI": "Implementa o SINIR",
+    "LEI/DECRETO": "Portaria 412",
+    "ANO": 2019,
+    "URL": "https://www.ibama.gov.br/component/legislacao/?view=legislacao&legislacao=138509",
+    "EMENTA": "IMPLEMENTA O SISTEMA NACIONAL DE INFORMAÇÕES SOBRE A GESTÃO DOS RESÍDUOS SÓLIDOS - SINIR."
+  },
+  {
+    "NOME_LEI": "Termo de Compromisso de Embalagens de Alumínio",
+    "LEI/DECRETO": "Termo de Compromisso de Embalagens de Alumínio",
+    "ANO": 2020,
+    "URL": "https://portal-api.sinir.gov.br/wp-content/uploads/2022/05/Termo_de_Compromisso_Logistica_Reversa_de_Latas_de_Aluminio_para_Bebidas_ASSINADO.pdf",
+    "EMENTA": "TERMO DE COMPROMISSO PARA APERFEIÇOAMENTO DO SISTEMA DE LOGÍSTICA REVERSA DE LATAS DE ALUMÍNIO PARA BEBIDAS"
+  },
+  {
+    "NOME_LEI": "Regulamenta a Política Nacional de Resíduos Sólidos",
+    "LEI/DECRETO": "Decreto nº 10.936",
+    "ANO": 2022,
+    "URL": "http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Decreto/D10936.htm#:~:text=DECRETO%20N%C2%BA%2010.936%2C%20DE%2012,Pol%C3%ADtica%20Nacional%20de%20Res%C3%ADduos%20S%C3%B3lidos.",
+    "EMENTA": "REGULAMENTA A LEI Nº 12.305, DE 2 DE AGOSTO DE 2010, QUE INSTITUI A POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS."
+  },
+  {
+    "NOME_LEI": "Institui o CCRLR, o CERE e o Certificado de Crédito de Massa Futura",
+    "LEI/DECRETO": "Decreto nº 11.413",
+    "ANO": 2023,
+    "URL": "http://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Decreto/D11413.htm#art33",
+    "EMENTA": "INSTITUI O CERTIFICADO DE CRÉDITO DE RECICLAGEM DE LOGÍSTICA REVERSA, O CERTIFICADO DE ESTRUTURAÇÃO E RECICLAGEM DE EMBALAGENS EM GERAL E O CERTIFICADO DE CRÉDITO DE MASSA FUTURA, NO ÂMBITO DOS SISTEMAS DE LOGÍSTICA REVERSA DE QUE TRATA O ART. 33 DA LEI Nº 12.305, DE 2 DE AGOSTO DE 2010."
+  },
+  {
+    "NOME_LEI": "Programa Diogo de Sant'Ana Pró-Catadoras e Pró-Catadores para a Reciclagem Popular",
+    "LEI/DECRETO": "Decreto nº 11.414",
+    "ANO": 2023,
+    "URL": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11414.htm",
+    "EMENTA": "INSTITUI O PROGRAMA DIOGO DE SANT'ANA PRÓ-CATADORAS E PRÓ-CATADORES PARA A RECICLAGEM POPULAR E O COMITÊ INTERMINISTERIAL PARA INCLUSÃO SOCIOECONÔMICA DE CATADORAS E CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS."
+  }
+]
