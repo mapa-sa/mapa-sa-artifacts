@@ -1,3 +1,4 @@
 tmp/*
 !.gitkeep
 deploy.sh
+**node_modules**
